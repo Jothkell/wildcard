@@ -4,7 +4,7 @@ Excitement! Intrigue!  CAN you launch the egg through the moving ring?   Time is
 microsecond at a time!
 Launch, then launch again!   Theres no such thing as a free launch, except in this game, which is free. 
 
-click here! https://editor.p5js.org/jkellehe/sketches/HkIRVvVJE
+click here to run: https://editor.p5js.org/jkellehe/sketches/HkIRVvVJE
 
 Copyright 2018 John T. Kelleher IV
 
