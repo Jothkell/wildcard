@@ -3,10 +3,10 @@
 /***********************************/
 
 var time = {
-    t: 0,
-    h: 0,
-    win: 0,
-    fr: 0
+    t:0,
+    h:0,
+    win:0,
+    fr:0
 }
 
     var xx = 0;
@@ -144,7 +144,7 @@ function splatter() {
 function txter() {
     time.t = frameCount / 60;
 
-    if (!time.win) {
+    if (!time.win){
 	time.h = time.t;
 	time.fr = frameCount;
     }
@@ -158,8 +158,8 @@ function txter() {
 	textSize(27);
 	text("/42", 57, 0);
 	textSize(27);
-	if (time.t < 20 || (round(time.t) % 2 == 0)) {
-
+	if (time.t < 20 || (round(time.t) %2 == 0)){
+      
 	    text("time:", -140, 42);
 	}
 	text((30 - time.t), -57, 42);
@@ -180,17 +180,19 @@ function lss() {
     //text("score: ", -140, 0);
     translate(127, 142, 0);
     texture(loss);
-    box(311, 377, 20);
+    box(311,377, 20);
     translate(-127, -142, 0);
     text(score, -140, 0);
 
     text("/42", -140, 42);
+    text("you", -170, 84);
+    text("lost!", -170, 126);
     translate(70, 200, 300);
-    won();
+    
 }
 
 function won() {
-
+  
     translate(-70, -200, -300);
     textSize(50);
     textFont(myFont);
@@ -200,7 +202,7 @@ function won() {
     text("you won!", -140, 42);
     textSize(27);
     text("time left: ", -140, 84);
-    text((30 - time.h), -17, 84);
+    text((30-time.h),-17, 84);
     translate(70, 200, 300);
     time.win = 1;
     rn.rotx = 0.07;
@@ -245,6 +247,5 @@ function rings() {
 function debris() {
     translate(-2 * rn.xx, -100, 2 * -rn.zz);
     model(egg);
-    translate(2 * scale(1 / 4);
-	      translate(-ball.x, -(ball.y), (ball.z));
-    if 
+    translate(2 * rn.Count * 0.1);
+ 
