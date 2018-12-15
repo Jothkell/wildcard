@@ -14,7 +14,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <img width="434" alt="wildcard4" src="https://user-images.githubusercontent.com/37784456/50038601-de274580-ffd6-11e8-820e-cc61d30547af.png">
 
-<img width="503" alt="wildcard1" src="https://user-images.githubusercontent.com/37784456/50038293-1f692680-ffd2-11e8-84cb-03340296671f.png">
+
 
 <img width="504" alt="wildcard3" src="https://user-images.githubusercontent.com/37784456/50038304-58090000-ffd2-11e8-9194-97688510f3d6.png">
 
